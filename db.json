@@ -1,0 +1,30 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Fast And Furious",
+      "posterPath": "./images/fastandfurious.jpeg",
+      "favourite": false
+    },
+    {
+      "id": 2,
+      "title": "Star Wars",
+      "posterPath": "./images/starwars.jpeg",
+      "favourite": true
+    },
+    {
+      "id": 3,
+      "title": "End Game",
+      "posterPath": "./images/endgame.jpeg",
+      "favourite": true
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1,
+      "title": "Fast And Furious",
+      "posterPath": "./images/fastandfurious.jpeg",
+      "favourite": false
+    }
+  ]
+}
